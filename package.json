@@ -2,11 +2,11 @@
   "name": "pornbot",
   "version": "1.0.0",
   "description": "hi",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
-  "author": "Harry",
+  "author": "Jayce",
   "license": "ISC",
   "dependencies": {
     "command-discord": "^1.4.0",

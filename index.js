@@ -1,6 +1,6 @@
 const command = require("command-discord");
 const client = command.Client({
-    token: "NjA1MTM2MDU5MDc2MTgyMDI2.XT4Hlg.uB5cbsILSQqjMt8kj0VBYxMI6Xg", // Token Bot
+    token: "NjA5MTAyMTU1MjUyNzYwNTkx.XVEZ5g._l9Dyuxec1J0ub15zfbULSntuwM", // Token Bot
     color: "65535", //optional color for  embeds in decimal (65535 default)
     path: "./commands", // path for commands folder, (./commands default)
     prefix: "x", // prefix can be an array, (! default)
